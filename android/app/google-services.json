@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137591950253",
+    "project_id": "phoneauth-7ade4",
+    "storage_bucket": "phoneauth-7ade4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137591950253:android:c5e411455004ad6a25ef24",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TJLATcj_mqqURilGWnxeICHAmXZ2Sqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
